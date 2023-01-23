@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>Página Teste de Caches Avançados</title>
+</head>
+<body>
+				<div style="width=500px;float:left;margin:20px;background-color:#586267;padding:10px;">
+				<strong>Terceiro titulo</strong><br/>
+				Um terceiro texto			</div>
+						<div style="width=500px;float:left;margin:20px;background-color:#997492;padding:10px;">
+				<strong>Titulo de teste</strong><br/>
+				Corpo de teste			</div>
+						<div style="width=500px;float:left;margin:20px;background-color:#420409;padding:10px;">
+				<strong>Titulo Novo para Teste 2</strong><br/>
+				Um novo texto apenas para teste			</div>
+						<div style="width=500px;float:left;margin:20px;background-color:#845176;padding:10px;">
+				<strong>Primeiro titulo TESTE</strong><br/>
+				Algum texto			</div>
+			</body>
+</html>

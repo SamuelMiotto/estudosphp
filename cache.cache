@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>Página Cache 2 Intermediário</title>
+</head>
+<body>
+				<div style="width:250px;float:left;margin:20px;background-color:#153410;padding:10px;">
+				<strong>Titulo de teste</strong><br/>
+				Corpo de test			</div>
+						<div style="width:250px;float:left;margin:20px;background-color:#666645;padding:10px;">
+				<strong>Terceiro titulo</strong><br/>
+				Um terc			</div>
+						<div style="width:250px;float:left;margin:20px;background-color:#680327;padding:10px;">
+				<strong>Titulo Novo para Teste 2</strong><br/>
+				Um novo texto apenas para 			</div>
+						<div style="width:250px;float:left;margin:20px;background-color:#127719;padding:10px;">
+				<strong>Primeiro titulo TESTE</strong><br/>
+				Algum texto			</div>
+			</body>
+</html>
